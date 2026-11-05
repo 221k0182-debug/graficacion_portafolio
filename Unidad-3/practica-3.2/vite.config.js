@@ -1,5 +1,5 @@
 import { defineConfig } from 'vite'
 
 export default defineConfig({
-  base: '/graficacion_portafolio/AA3.2%20Escena/practica-3.2/'
+  base: '/graficacion_portafolio/Unidad-3/practica-3.2/'
 })
